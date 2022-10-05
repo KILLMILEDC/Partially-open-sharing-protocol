@@ -1,0 +1,1 @@
+# Partially-open-sharing-protocol
