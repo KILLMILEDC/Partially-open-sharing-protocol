@@ -1,1 +1,14 @@
-
+html{
+    width: auto;
+    height: auto;
+    margin: 0;
+    font-size: 10px;
+    text-align: center;
+}
+    .div-index-root{
+        padding-left: 60px;
+        padding-right: 60px;
+        text-align: justify;
+        word-break: keep-all;
+        user-select: text;
+    }
